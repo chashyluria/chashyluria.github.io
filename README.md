@@ -1,5 +1,5 @@
 # Chashy Luria
-## Data Scientest
+## Data Scientist
 
 ### Eductaion
 Saint Peters University
