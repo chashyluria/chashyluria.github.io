@@ -1,5 +1,4 @@
-# chashyluria.github.io
-
+# Chashy Luria
 ## Data Scientest
 
 ### Eductaion
